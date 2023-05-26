@@ -1,0 +1,66 @@
+.gradient-background {
+        background: linear-gradient(300deg, #06b3ec, #054bd8, #0fd9e0);
+}
+.proImage {
+        
+        float: left;
+        border: 10px solid cyan;
+        border-radius: 50%;
+}
+.lead{
+        color: azure;
+}
+.profilePic{
+        border-radius: 50%;
+        
+}
+.col {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    float: left;
+}
+.contactMe{   
+        background: linear-gradient(300deg, #06b3ec, #054bd8, #0fd9e0);
+}
+.types{
+        background: linear-gradient(300deg, #06b3ec, #054bd8, #0fd9e0);
+}
+.footer{
+        background: linear-gradient(300deg, #06b3ec, #087ae4, #0fd9e0);
+}
+.profilePic{
+        background: linear-gradient(300deg, #06b3ec, #087ae4, #0fd9e0);
+}
+.contact{
+        background: linear-gradient(300deg, #06b3ec, #087ae4, #0fd9e0);
+}
+
+
+.navbar{
+        background: linear-gradient(300deg, #06b3ec, #087ae4, #0fd9e0);
+        font-family: calibri; 
+        padding-right: 15px;
+        padding-left: 15px;
+}
+.navdiv{
+        display: flex;
+        
+        justify-content: center;
+}
+li{
+        list-style: none; 
+        display: inline-block;
+        
+}
+li a{
+        color: white; 
+        font-size: 18px; 
+        font-weight: bold; 
+        margin-right: 25px;
+        text-decoration: none;
+}
+
+
